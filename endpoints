@@ -1,6 +1,4 @@
 // Supply
 https://api-pub.bitfinex.com/v2/stats1/leo.burn.supply:1d:val/last
-
-
 // 24hr burn
-https://api-pub.bitfinex.com/v2/stats1/leo.burn.supply:1d:val/last
+https://api-pub.bitfinex.com/v2/stats1/leo.burn.acc:1h:bal/hist?limit=24
